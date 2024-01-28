@@ -1,6 +1,6 @@
 # a10S
-resize system 
-0xdb000000 TO 0x155E4F800 
-3687429632 TO 5687429632
-
-A107FXXS8CWD3
+## Known information:
+| stock partition  | NEW partition  | Availability | Working |
+|-----------|-------------|--------------|---------|
+| 0xdb000000 | |0x155E4F800| Yes | Yes |
+|-----------|-------------|--------------|---------|
